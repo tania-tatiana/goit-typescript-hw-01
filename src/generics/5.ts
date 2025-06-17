@@ -10,3 +10,5 @@ const RoleDescription: UserRoles = {
   editor: "Editor User",
   guest: "Guest User",
 };
+
+console.log(RoleDescription);

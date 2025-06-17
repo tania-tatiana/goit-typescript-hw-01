@@ -14,3 +14,5 @@ function compare(top: TopType, bottom: BottomType): AllType {
     weight: bottom.weight,
   };
 }
+
+console.log(compare);
